@@ -1,0 +1,42 @@
+.Main{
+    background-color: darkblue;
+    height: 100vh;
+}
+.Main h1{
+    text-align: center;
+    padding-top: 3em;
+    font-size: 2.8em;
+    color: white;
+}
+.Main span{
+    color:cyan;
+}
+ .boxcontainer{
+    display: flex;
+    justify-content: center;
+ }
+
+.web{
+    background-color:cyan;
+    width: 350px;
+  padding: 40px 0;
+  border-radius: 20px;
+margin-left: 20px;
+}
+.web i {
+ color: cornflowerblue;
+ padding-left: 40%;
+ font-size: 3rem;
+ padding-bottom: 20px;
+}
+
+.web h2{
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+}
+.web p{
+color: black;
+text-align: center;
+padding: 10px 30px;
+}
